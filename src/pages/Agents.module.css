@@ -1,0 +1,617 @@
+.rectangleDiv {
+  position: absolute;
+  top: 1127px;
+  left: 0;
+  background-color: #fff;
+  width: 1127px;
+  height: 120px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vuesaxbulklogoutIcon,
+.vuesaxbulkreceipt2Icon,
+.vuesaxbulksetting2Icon {
+  position: absolute;
+  top: 415px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxbulkreceipt2Icon,
+.vuesaxbulksetting2Icon {
+  top: 335px;
+}
+.vuesaxbulkreceipt2Icon {
+  top: 267px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon,
+.vuesaxbulkprofile2userIcon {
+  position: absolute;
+  top: 199px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon {
+  top: 131px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(3, 0, 71, 0.09);
+  width: 1440px;
+  height: 80px;
+}
+.rectangleIcon {
+  position: relative;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.cynthiaKennethB {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.logoDiv {
+  position: absolute;
+  top: 20px;
+  left: 1215px;
+  width: 174px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #3f3f3f;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 24px;
+  left: 213px;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: 503px;
+  height: 41px;
+}
+.rectangleDiv3 {
+  top: 108px;
+  left: 823px;
+  background-color: #fff;
+}
+.searchForAgents,
+.searchForTransactionsAgent {
+  position: absolute;
+  font-family: Roboto;
+  display: inline-block;
+}
+.searchForTransactionsAgent {
+  top: 37px;
+  left: 264px;
+  text-align: center;
+}
+.searchForAgents {
+  top: 121px;
+  left: 877px;
+}
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 32px;
+  left: 225px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon,
+.vuesaxlinearsearchNormalIcon1 {
+  position: absolute;
+  top: 116px;
+  left: 835px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon {
+  top: 0;
+  left: 12px;
+  width: 156px;
+  height: 156px;
+  object-fit: cover;
+}
+.agentsDiv1 {
+  position: absolute;
+  top: 110px;
+  left: 156px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #127dd3;
+  display: inline-block;
+}
+.rectangleDiv4 {
+  top: 171px;
+  left: 153px;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 1236px;
+  height: 743px;
+}
+.iDDiv,
+.lineDiv,
+.rectangleDiv4 {
+  position: absolute;
+}
+.lineDiv {
+  top: 210.7px;
+  left: 176.7px;
+  border-top: 0.6px solid #c5cfd4;
+  box-sizing: border-box;
+  width: 1187.6px;
+  height: 0.6px;
+}
+.iDDiv {
+  top: 190px;
+  left: 308px;
+  font-weight: 500;
+  display: inline-block;
+}
+.currentBalanceDiv,
+.dateAndTimeCreated,
+.fullNameDiv,
+.phoneNumberDiv {
+  position: absolute;
+  top: 190px;
+  left: 488px;
+  font-weight: 500;
+  display: inline-block;
+}
+.currentBalanceDiv,
+.dateAndTimeCreated,
+.phoneNumberDiv {
+  left: 678px;
+}
+.currentBalanceDiv,
+.phoneNumberDiv {
+  left: 908px;
+}
+.phoneNumberDiv {
+  left: 1118px;
+}
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  width: 1185px;
+  height: 64px;
+}
+.pMDiv,
+.thFeb22 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 46px;
+}
+.thFeb22 {
+  left: 55px;
+  width: 69px;
+}
+.lineDiv1 {
+  position: absolute;
+  top: -0.5px;
+  left: 49.5px;
+  border-right: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 1px;
+  height: 22px;
+}
+.groupDiv1,
+.rectangleIcon1 {
+  position: absolute;
+  top: 22px;
+  left: 497px;
+  width: 124px;
+  height: 21px;
+}
+.rectangleIcon1 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 60px;
+  height: 64px;
+}
+.aJDiv {
+  position: absolute;
+  top: 16px;
+  left: 13px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #fff;
+  display: inline-block;
+}
+.adamJosephDiv {
+  top: 24px;
+  left: 303px;
+}
+.adamJosephDiv,
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.div {
+  top: 24px;
+  left: 726.4px;
+  text-align: right;
+}
+.div1,
+.div2 {
+  top: 25px;
+  left: 125.55px;
+  color: #3f3f3f;
+  opacity: 0.7;
+}
+.div2 {
+  left: 937.55px;
+}
+.groupDiv {
+  position: relative;
+  width: 1185px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.rectangleDiv7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #c5cfd4;
+  width: 1185px;
+  height: 64px;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 220px;
+  left: 183px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  top: 20px;
+  left: 1145px;
+  width: 39px;
+  height: 40px;
+}
+.groupIcon1 {
+  left: 1085px;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #127dd3;
+  box-sizing: border-box;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.nextDiv {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 0;
+  left: 151px;
+  border: 1px solid #127dd3;
+  box-sizing: border-box;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.div28,
+.div29,
+.div30,
+.div31 {
+  position: absolute;
+  top: 8.5px;
+  left: 47px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div29,
+.div30,
+.div31 {
+  left: 77px;
+}
+.div30,
+.div31 {
+  left: 102px;
+}
+.div31 {
+  left: 129px;
+}
+.groupDiv18 {
+  position: absolute;
+  top: 936px;
+  left: 618px;
+  width: 205px;
+  height: 34px;
+  text-align: right;
+  font-size: 14px;
+}
+.groupIcon2 {
+  position: absolute;
+  top: 110px;
+  left: 1348px;
+  width: 39px;
+  height: 40px;
+}
+.rectangleDiv14,
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 114px;
+  left: 287px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv14 {
+  top: 76px;
+  left: 116px;
+  background-color: rgba(41, 45, 50, 0.4);
+  width: 1324px;
+  height: 1051px;
+  cursor: pointer;
+}
+.rectangleDiv15 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 514px;
+  height: 857px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 51px;
+  left: 27px;
+  width: 79px;
+  height: 79px;
+  object-fit: cover;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon {
+  height: 3.62%;
+  width: 5.83%;
+  top: 43.06%;
+  right: -24.27%;
+  bottom: 53.33%;
+  left: 118.45%;
+  opacity: 0;
+}
+.vectorIcon1 {
+  height: 2.92%;
+  width: 4.66%;
+  top: 11.9%;
+  right: 79.22%;
+  bottom: 85.18%;
+  left: 16.12%;
+}
+.firstNameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.rectangleDiv16 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.6px solid #127dd3;
+  box-sizing: border-box;
+  width: 463px;
+  height: 48px;
+}
+.firstNameDiv1 {
+  position: absolute;
+  top: 39px;
+  left: 10px;
+  color: #6a6a6a;
+  display: inline-block;
+}
+.emailphoneInputDiv {
+  position: relative;
+  width: 463px;
+  height: 71px;
+  flex-shrink: 0;
+  text-align: center;
+  color: #127dd3;
+}
+.rectangleDiv17 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 463px;
+  height: 48px;
+}
+.middeNameDiv {
+  position: absolute;
+  top: 39px;
+  left: 14px;
+  display: inline-block;
+}
+.emailphoneInputDiv1 {
+  position: relative;
+  width: 463px;
+  height: 71px;
+  flex-shrink: 0;
+}
+.rectangleDiv21,
+.rectangleDiv22 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 152px;
+  height: 48px;
+}
+.rectangleDiv22 {
+  left: 156px;
+}
+.monthDiv {
+  position: absolute;
+  top: 39px;
+  left: 174px;
+  display: inline-block;
+}
+.rectangleDiv23 {
+  position: absolute;
+  top: 23px;
+  left: 311px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 152px;
+  height: 48px;
+}
+.yearDiv {
+  position: absolute;
+  top: 39px;
+  left: 324px;
+  display: inline-block;
+}
+.vuesaxlineararrowDownIcon1 {
+  position: absolute;
+  top: 39px;
+  left: 412px;
+  width: 24px;
+  height: 24px;
+}
+.frameDiv4 {
+  position: absolute;
+  top: 148px;
+  left: 27px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.vuesaxlinearaddIcon {
+  position: absolute;
+  top: 3px;
+  left: 463px;
+  width: 43.3px;
+  height: 43.3px;
+  cursor: pointer;
+}
+.agentDetailsDiv {
+  position: absolute;
+  top: 17.67px;
+  left: 27px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Montserrat;
+  color: #3f3f3f;
+  display: inline-block;
+}
+.lineDiv10 {
+  position: absolute;
+  top: 41.7px;
+  left: -0.3px;
+  border-top: 0.6px solid #c5cfd4;
+  box-sizing: border-box;
+  width: 515.6px;
+  height: 0.6px;
+}
+.rectangleDiv25 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #127dd3;
+  width: 461px;
+  height: 48px;
+}
+.btnDiv,
+.rectangleDiv25,
+.stakeB {
+  position: absolute;
+}
+.stakeB {
+  top: 15px;
+  left: 153px;
+  display: inline-block;
+  width: 154.91px;
+}
+.btnDiv {
+  top: 785px;
+  left: 29px;
+  width: 461px;
+  height: 48px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+}
+.groupDiv19 {
+  position: absolute;
+  top: 270px;
+  left: 530px;
+  width: 515px;
+  height: 857px;
+  font-size: 14px;
+  font-family: Roboto;
+}
+.agentsDiv {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 1127px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 12px;
+  color: #6a6a6a;
+  font-family: Montserrat;
+}

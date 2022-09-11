@@ -1,0 +1,267 @@
+.rectangleDiv {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  background-color: #fff;
+  width: 1024px;
+  height: 120px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vuesaxbulklogoutIcon,
+.vuesaxbulksetting2Icon {
+  position: absolute;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxbulklogoutIcon {
+  top: 415px;
+  cursor: pointer;
+}
+.vuesaxbulksetting2Icon {
+  top: 335px;
+}
+.vuesaxbulkprofile2userIcon,
+.vuesaxbulkreceipt2Icon {
+  position: absolute;
+  top: 267px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.vuesaxbulkprofile2userIcon {
+  top: 199px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon {
+  position: absolute;
+  top: 131px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(3, 0, 71, 0.09);
+  width: 1440px;
+  height: 80px;
+}
+.rectangleIcon {
+  position: relative;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.cynthiaKennethB {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.logoDiv {
+  position: absolute;
+  top: 20px;
+  left: 1215px;
+  width: 174px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #3f3f3f;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 24px;
+  left: 213px;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: 503px;
+  height: 41px;
+}
+.searchForTransactionsAgent {
+  position: absolute;
+  top: 37px;
+  left: 264px;
+  font-family: Roboto;
+  text-align: center;
+  display: inline-block;
+}
+.bankmelogo2Icon,
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 32px;
+  left: 225px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon {
+  top: 0;
+  left: 12px;
+  width: 156px;
+  height: 156px;
+  object-fit: cover;
+}
+.backDiv {
+  position: absolute;
+  top: 2px;
+  left: 29px;
+  font-weight: 600;
+  display: inline-block;
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.groupDiv,
+.rectangleDiv3 {
+  position: absolute;
+  left: 156px;
+}
+.groupDiv {
+  top: 110px;
+  width: 70px;
+  height: 24px;
+  font-size: 16px;
+}
+.rectangleDiv3 {
+  top: 162px;
+  border-radius: 6px;
+  background-color: #127dd3;
+  width: 1233px;
+  height: 146px;
+}
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  top: 20px;
+  left: 1145px;
+  width: 39px;
+  height: 40px;
+}
+.groupIcon1 {
+  left: 1085px;
+}
+.div,
+.totalBalanceDiv {
+  position: absolute;
+  font-family: Roboto;
+  color: #fff;
+  display: inline-block;
+}
+.totalBalanceDiv {
+  top: 207px;
+  left: 684px;
+  text-align: center;
+}
+.div {
+  top: 233px;
+  left: 634px;
+  font-size: 26px;
+  font-weight: 600;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #e6eff3;
+  width: 340px;
+  height: 61px;
+}
+.rectangleDiv5 {
+  background-color: #fff;
+  width: 1234px;
+}
+.vuesaxlineararrowRightIcon {
+  position: absolute;
+  top: 21px;
+  left: 1194px;
+  width: 20px;
+  height: 20px;
+}
+.bankTransferDiv,
+.depositMoneyByUsingYourBa {
+  position: absolute;
+  top: 19px;
+  left: 56px;
+  font-weight: 600;
+  display: inline-block;
+}
+.depositMoneyByUsingYourBa {
+  top: 36px;
+  left: 57px;
+  font-size: 9px;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 13px;
+  left: 11px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  width: 36px;
+  height: 36px;
+}
+.vuesaxbulkbankIcon {
+  position: absolute;
+  top: 19px;
+  left: 17px;
+  width: 24px;
+  height: 24px;
+}
+.groupDiv1 {
+  position: relative;
+  width: 1234px;
+  height: 61px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 338px;
+  left: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.depositDiv1 {
+  position: absolute;
+  top: 110px;
+  left: 668px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #127dd3;
+  display: inline-block;
+}
+.depositDiv {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 12px;
+  color: #6a6a6a;
+  font-family: Montserrat;
+}

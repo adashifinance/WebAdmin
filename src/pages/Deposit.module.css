@@ -1,0 +1,420 @@
+.rectangleDiv {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  background-color: #fff;
+  width: 1024px;
+  height: 120px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vuesaxbulklogoutIcon,
+.vuesaxbulksetting2Icon {
+  position: absolute;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxbulklogoutIcon {
+  top: 415px;
+  cursor: pointer;
+}
+.vuesaxbulksetting2Icon {
+  top: 335px;
+}
+.vuesaxbulkprofile2userIcon,
+.vuesaxbulkreceipt2Icon {
+  position: absolute;
+  top: 267px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.vuesaxbulkprofile2userIcon {
+  top: 199px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon {
+  position: absolute;
+  top: 131px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(3, 0, 71, 0.09);
+  width: 1440px;
+  height: 80px;
+}
+.rectangleIcon {
+  position: relative;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.cynthiaKennethB {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.logoDiv {
+  position: absolute;
+  top: 20px;
+  left: 1215px;
+  width: 174px;
+  height: 40px;
+  color: #3f3f3f;
+  font-family: Montserrat;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 24px;
+  left: 213px;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: 503px;
+  height: 41px;
+}
+.searchForTransactionsAgent {
+  position: absolute;
+  top: 37px;
+  left: 264px;
+  font-size: 12px;
+  display: inline-block;
+}
+.bankmelogo2Icon,
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 32px;
+  left: 225px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon {
+  top: 0;
+  left: 12px;
+  width: 156px;
+  height: 156px;
+  object-fit: cover;
+}
+.backDiv {
+  position: absolute;
+  top: 2px;
+  left: 29px;
+  font-weight: 600;
+  display: inline-block;
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.groupDiv,
+.rectangleDiv3 {
+  position: absolute;
+  left: 156px;
+}
+.groupDiv {
+  top: 110px;
+  width: 70px;
+  height: 24px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 16px;
+  font-family: Montserrat;
+}
+.rectangleDiv3 {
+  top: 162px;
+  border-radius: 6px;
+  background-color: #127dd3;
+  width: 1233px;
+  height: 146px;
+}
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  top: 20px;
+  left: 1145px;
+  width: 39px;
+  height: 40px;
+}
+.groupIcon1 {
+  left: 1085px;
+}
+.div,
+.totalBalanceDiv {
+  position: absolute;
+  top: 207px;
+  left: 684px;
+  font-size: 12px;
+  color: #fff;
+  display: inline-block;
+}
+.div {
+  top: 233px;
+  left: 634px;
+  font-size: 26px;
+  font-weight: 600;
+  text-align: left;
+}
+.youCanFundYourAccountByT {
+  top: 338px;
+  left: 466px;
+  width: 509px;
+}
+.cardsDiv,
+.depositDiv1,
+.youCanFundYourAccountByT {
+  position: absolute;
+  display: inline-block;
+}
+.depositDiv1 {
+  top: 110px;
+  left: 668px;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #127dd3;
+  text-align: left;
+}
+.cardsDiv {
+  top: 0;
+  left: 0;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 404px;
+  height: 205px;
+}
+.rectangleDiv5 {
+  left: 430px;
+}
+.emailphoneInputDiv {
+  position: relative;
+  width: 834px;
+  height: 228px;
+  flex-shrink: 0;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 408px;
+  left: 303px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: #127dd3;
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #127dd3;
+  width: 340px;
+  height: 48px;
+}
+.depositB {
+  position: absolute;
+  top: 15px;
+  left: 84px;
+  display: inline-block;
+  width: 171px;
+}
+.vuesaxlineararrowRightIcon {
+  position: absolute;
+  top: 12px;
+  left: 305px;
+  width: 24px;
+  height: 24px;
+}
+.btnDiv,
+.rectangleDiv7 {
+  position: absolute;
+  height: 48px;
+}
+.btnDiv {
+  top: 821px;
+  left: 550px;
+  width: 340px;
+  font-size: 16px;
+  color: #fff;
+}
+.rectangleDiv7 {
+  top: 23px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 378px;
+}
+.passwordInputDiv {
+  position: relative;
+  width: 378px;
+  height: 71px;
+  flex-shrink: 0;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 681px;
+  left: 531px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+}
+.rectangleDiv8 {
+  position: absolute;
+  top: 80px;
+  left: 116px;
+  background-color: rgba(41, 45, 50, 0.4);
+  width: 1324px;
+  height: 944px;
+  cursor: pointer;
+}
+.rectangleDiv10,
+.rectangleDiv9 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 514px;
+  height: 286px;
+}
+.rectangleDiv10 {
+  left: 0;
+  border-radius: 10px;
+  border: 1.6px solid #127dd3;
+  box-sizing: border-box;
+  width: 70px;
+  height: 71.67px;
+}
+.passwordInputDiv1 {
+  left: 0;
+}
+.passwordInputDiv1,
+.passwordInputDiv2,
+.rectangleDiv11 {
+  position: absolute;
+  top: 0;
+  width: 70px;
+  height: 71.67px;
+}
+.rectangleDiv11 {
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+}
+.passwordInputDiv2 {
+  left: 90px;
+}
+.groupDiv2,
+.passwordInputDiv3,
+.passwordInputDiv4,
+.rectangleDiv14 {
+  position: absolute;
+  top: 0;
+  left: 180px;
+  width: 70px;
+  height: 71.67px;
+}
+.groupDiv2,
+.passwordInputDiv4,
+.rectangleDiv14 {
+  left: 270px;
+}
+.groupDiv2,
+.rectangleDiv14 {
+  top: 78px;
+  left: 88px;
+  width: 340px;
+}
+.rectangleDiv14 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #127dd3;
+  width: 461px;
+  height: 48px;
+  cursor: pointer;
+}
+.submit {
+  position: absolute;
+  top: 15px;
+  left: 153px;
+  display: inline-block;
+  width: 154.91px;
+}
+.btnDiv1 {
+  position: absolute;
+  top: 194px;
+  left: 29px;
+  width: 461px;
+  height: 48px;
+}
+.vuesaxlinearaddIcon {
+  position: absolute;
+  top: 3px;
+  left: 463px;
+  width: 43.3px;
+  height: 43.3px;
+  cursor: pointer;
+}
+.lineDiv {
+  position: absolute;
+  top: 41.7px;
+  left: -0.3px;
+  border-top: 0.6px solid #c5cfd4;
+  box-sizing: border-box;
+  width: 515.6px;
+  height: 0.6px;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 369px;
+  left: 523px;
+  width: 515px;
+  height: 286px;
+  font-size: 16px;
+  color: #fff;
+}
+.depositDiv {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #6a6a6a;
+  font-family: Roboto;
+}

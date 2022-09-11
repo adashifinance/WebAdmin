@@ -1,0 +1,547 @@
+.rectangleDiv {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  background-color: #fff;
+  width: 1024px;
+  height: 120px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vuesaxbulklogoutIcon,
+.vuesaxbulkreceipt2Icon,
+.vuesaxbulksetting2Icon {
+  position: absolute;
+  top: 415px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxbulkreceipt2Icon,
+.vuesaxbulksetting2Icon {
+  top: 335px;
+}
+.vuesaxbulkreceipt2Icon {
+  top: 267px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon,
+.vuesaxbulkprofile2userIcon {
+  position: absolute;
+  top: 199px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv1,
+.vuesaxbulkcategoryIcon {
+  top: 131px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(3, 0, 71, 0.09);
+  width: 1440px;
+  height: 80px;
+}
+.rectangleIcon {
+  position: relative;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.cynthiaKennethB {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.logoDiv {
+  position: absolute;
+  top: 20px;
+  left: 1215px;
+  width: 174px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #3f3f3f;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 24px;
+  left: 213px;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: 503px;
+  height: 41px;
+}
+.rectangleDiv3 {
+  top: 108px;
+  left: 603px;
+  background-color: #fff;
+}
+.searchForTransactions,
+.searchForTransactionsAgent {
+  position: absolute;
+  font-family: Roboto;
+  display: inline-block;
+}
+.searchForTransactionsAgent {
+  top: 37px;
+  left: 264px;
+  text-align: center;
+}
+.searchForTransactions {
+  top: 121px;
+  left: 657px;
+}
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 32px;
+  left: 225px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon,
+.vuesaxlinearsearchNormalIcon1 {
+  position: absolute;
+  top: 116px;
+  left: 615px;
+  width: 24px;
+  height: 24px;
+}
+.bankmelogo2Icon {
+  top: 0;
+  left: 12px;
+  width: 156px;
+  height: 156px;
+  object-fit: cover;
+}
+.transactionsDiv1 {
+  position: absolute;
+  top: 110px;
+  left: 156px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #127dd3;
+  display: inline-block;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 171px;
+  left: 153px;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 1236px;
+  height: 743px;
+}
+.lineDiv {
+  position: absolute;
+  top: 210.7px;
+  left: 176.7px;
+  border-top: 0.6px solid #c5cfd4;
+  box-sizing: border-box;
+  width: 1187.6px;
+  height: 0.6px;
+}
+.amountDiv,
+.descriptionDiv,
+.iDDiv,
+.timeDateDiv,
+.typeDiv {
+  position: absolute;
+  top: 190px;
+  left: 308px;
+  font-weight: 500;
+  display: inline-block;
+}
+.amountDiv,
+.descriptionDiv,
+.timeDateDiv,
+.typeDiv {
+  left: 488px;
+}
+.amountDiv,
+.descriptionDiv,
+.timeDateDiv {
+  left: 678px;
+}
+.amountDiv,
+.descriptionDiv {
+  left: 908px;
+}
+.descriptionDiv {
+  left: 1118px;
+}
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  width: 1185px;
+  height: 64px;
+}
+.pMDiv,
+.thFeb22 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 46px;
+}
+.thFeb22 {
+  left: 55px;
+  width: 69px;
+}
+.lineDiv1 {
+  position: absolute;
+  top: -0.5px;
+  left: 49.5px;
+  border-right: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 1px;
+  height: 22px;
+}
+.groupDiv1,
+.rectangleIcon1 {
+  position: absolute;
+  top: 22px;
+  left: 497px;
+  width: 124px;
+  height: 21px;
+}
+.rectangleIcon1 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 60px;
+  height: 64px;
+}
+.vuesaxbulkmoneySendIcon {
+  position: absolute;
+  top: 14px;
+  left: 12.3px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.withdrawalDiv {
+  top: 24px;
+  left: 303px;
+}
+.bM234253464EDDiv,
+.div,
+.iWouldLikeToCollect,
+.withdrawalDiv {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.div {
+  top: 24px;
+  left: 726.4px;
+  text-align: right;
+}
+.bM234253464EDDiv,
+.iWouldLikeToCollect {
+  top: 25px;
+  left: 125.55px;
+  color: #3f3f3f;
+  opacity: 0.7;
+}
+.iWouldLikeToCollect {
+  left: 937.55px;
+}
+.groupDiv {
+  position: relative;
+  width: 1185px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 64px;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 220px;
+  left: 183px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.groupIcon4,
+.groupIcon5,
+.groupIcon6 {
+  position: absolute;
+  top: 20px;
+  left: 1145px;
+  width: 39px;
+  height: 40px;
+}
+.groupIcon5,
+.groupIcon6 {
+  left: 1085px;
+}
+.groupIcon6 {
+  top: 110px;
+  left: 1348px;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #127dd3;
+  box-sizing: border-box;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.nextDiv {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 0;
+  left: 151px;
+  border: 1px solid #127dd3;
+  box-sizing: border-box;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.div10,
+.div11,
+.div12,
+.div13 {
+  position: absolute;
+  top: 8.5px;
+  left: 47px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div11,
+.div12,
+.div13 {
+  left: 77px;
+}
+.div12,
+.div13 {
+  left: 102px;
+}
+.div13 {
+  left: 129px;
+}
+.groupDiv18 {
+  position: absolute;
+  top: 936px;
+  left: 618px;
+  width: 205px;
+  height: 34px;
+  text-align: right;
+  font-size: 14px;
+}
+.rectangleDiv14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #127dd3;
+  width: 177px;
+  height: 40px;
+}
+.downloadB {
+  position: absolute;
+  top: 10px;
+  left: 43.73px;
+  display: inline-block;
+  width: 89.02px;
+}
+.btnDiv {
+  position: absolute;
+  top: 110px;
+  left: 1148px;
+  width: 177px;
+  height: 40px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Roboto;
+}
+.rectangleDiv15 {
+  position: absolute;
+  top: 80px;
+  left: 116px;
+  background-color: rgba(41, 45, 50, 0.4);
+  width: 1324px;
+  height: 944px;
+  cursor: pointer;
+}
+.rectangleDiv16 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-radius: 6px;
+  background-color: #fff;
+  width: 514px;
+  height: 286px;
+}
+.dateRangeDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.rectangleDiv17 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 220px;
+  height: 48px;
+}
+.rectangleDiv18,
+.vuesaxbulkcalendarIcon {
+  position: absolute;
+  top: 35px;
+  left: 56px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleDiv18 {
+  top: 23px;
+  left: 243px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #6a6a6a;
+  box-sizing: border-box;
+  width: 220px;
+  height: 48px;
+}
+.vuesaxbulkcalendarIcon1 {
+  position: absolute;
+  top: 35px;
+  left: 311px;
+  width: 24px;
+  height: 24px;
+}
+.endDateDiv,
+.startDateDiv {
+  position: absolute;
+  top: 38px;
+  left: 338px;
+  display: inline-block;
+}
+.startDateDiv {
+  left: 83px;
+}
+.passwordInputDiv,
+.rectangleDiv19 {
+  position: absolute;
+  top: 81px;
+  left: 27px;
+  width: 463px;
+  height: 71px;
+}
+.rectangleDiv19 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #127dd3;
+  width: 461px;
+  height: 48px;
+}
+.downloadB1 {
+  position: absolute;
+  top: 15px;
+  left: 153px;
+  display: inline-block;
+  width: 154.91px;
+}
+.btnDiv1 {
+  position: absolute;
+  top: 194px;
+  left: 29px;
+  width: 461px;
+  height: 48px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+}
+.vuesaxlinearaddIcon {
+  position: absolute;
+  top: 3px;
+  left: 463px;
+  width: 43.3px;
+  height: 43.3px;
+  cursor: pointer;
+}
+.downloadTransactionsDiv {
+  position: absolute;
+  top: 17.67px;
+  left: 27px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Montserrat;
+  color: #3f3f3f;
+  display: inline-block;
+}
+.lineDiv10 {
+  position: absolute;
+  top: 41.7px;
+  left: -0.3px;
+  border-top: 0.6px solid #c5cfd4;
+  box-sizing: border-box;
+  width: 515.6px;
+  height: 0.6px;
+}
+.groupDiv19 {
+  position: absolute;
+  top: 369px;
+  left: 523px;
+  width: 515px;
+  height: 286px;
+  font-size: 14px;
+  font-family: Roboto;
+}
+.transactionsDiv {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 12px;
+  color: #6a6a6a;
+  font-family: Montserrat;
+}
